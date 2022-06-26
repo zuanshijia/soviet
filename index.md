@@ -61,4 +61,4 @@
 
 
 # -------the end-------
-## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
+## 欢迎下次访问，本站永久链接<a href="https://zuanshijia.github.io/diamond" style="color: #D90F16">苏维埃旧站，不再维护</a>
