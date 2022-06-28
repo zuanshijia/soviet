@@ -9,6 +9,11 @@
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30431421&auto=0&height=66"></iframe>
 </div>
 
+## 精彩视频<br>
+<div align="center">
+  <iframe src="//player.bilibili.com/player.html?aid=855367842&bvid=BV1eL4y1P7SN&cid=756235464&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+</div>
+
 
 
 ## 我的相关<br>
@@ -17,11 +22,12 @@
  
  
 ## 列宁导师的经典语录<br>
-     1.必须有勇气正视无情的真理<br>
 
-     2. 少说些漂亮话，多做些日常平凡的事情......<br>
+   1.必须有勇气正视无情的真理<br>
+   
+   2. 少说些漂亮话，多做些日常平凡的事情......<br>
 
-       3.要成就一件大事业，必须从小事做起。<br>
+   3.成就一件大事业，必须从小事做起。<br>
 
 　　4.政治是经济的集中表现。<br>
 
